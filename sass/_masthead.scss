@@ -31,12 +31,14 @@ header.masthead {
     h1 {
       font-size: 50px;
       margin-top: 0;
+      color: greenyellow;
     }
     .subheading {
-      font-size: 24px;
-      font-weight: 300;
+      font-size: 34px;
+      font-weight: 600;
       line-height: 1.1;
       display: block;
+      color: rgb(246, 246, 249);
       margin: 10px 0 0;
       @include sans-serif-font;
     }
